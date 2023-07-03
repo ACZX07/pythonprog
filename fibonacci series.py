@@ -1,3 +1,5 @@
+#THIS PROGRAM PRINTS THE FIBONACCI SERIES UPTO A SPECIFIED NUMBER OF TERMS
+
 terms = int(input("how many terms?"))
 #for taking the number of Fibonacci series terms to be shown
 
