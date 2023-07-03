@@ -1,4 +1,4 @@
-#THIS PROGRAMS CHECKS IF A NUMBER IS AN ARMSTRONG NUMBER
+#THIS PROGRAM CHECKS IF A NUMBER IS AN ARMSTRONG NUMBER
 
 n=int(input("enter number:"))
 #for taking any number as input
