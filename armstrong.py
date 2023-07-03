@@ -1,3 +1,5 @@
+#THIS PROGRAMS CHECKS IF A NUMBER IS AM ARMSTRONG NUMBER
+
 n=int(input("enter number:"))
 #for taking any number as input
 
